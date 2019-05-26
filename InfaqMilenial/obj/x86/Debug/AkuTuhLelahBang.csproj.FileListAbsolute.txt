@@ -1,0 +1,28 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Properties.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.csproj.GenerateResource.Cache
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\bin\Debug\AkuTuhLelahBang.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\bin\Debug\AkuTuhLelahBang.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.pdb
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.exe
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.pdb
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\bin\Debug\AkuTuhLelahBang.exe
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\bin\Debug\AkuTuhLelahBang.pdb
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form1.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Properties.Resources.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.csproj.GenerateResource.Cache
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form2.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form3.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.csprojResolveAssemblyReference.cache
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form4.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form5.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form6.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\bin\Debug\AkuTuhLelahBang.exe.config
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form7.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form8.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.Form9.resources
+D:\SMK TELKOM SP PWT\DP 3\AkuTuhLelahBang\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.splashscreen.resources
+D:\SMK TELKOM SP PWT\DP 3\InfaqMilenial\AkuTuhLelahBang\bin\Debug\AkuTuhLelahBang.exe.config
+D:\SMK TELKOM SP PWT\DP 3\InfaqMilenial\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.exe
+D:\SMK TELKOM SP PWT\DP 3\InfaqMilenial\AkuTuhLelahBang\obj\x86\Debug\AkuTuhLelahBang.pdb
